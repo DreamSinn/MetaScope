@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+facebook-business
+pillow
+requests
+beautifulsoup4
+python-dotenv
